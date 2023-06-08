@@ -25,4 +25,4 @@ def test_calculate_stats():
     assert isinstance(out_F, pd.Series)
     assert set(list(out_F.index)) == set(['Disagree', 'Strong Agree', 'Agree'])
     assert set(list(out_F.values)) == set([0.4, 0.4, 0.2])
-    
+
