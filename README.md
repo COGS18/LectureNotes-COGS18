@@ -1,5 +1,5 @@
 # LectureNotes-COGS18
-Lecture Notes for COGS 18 Section B (Fall 2023; Hempel)
+Lecture Notes for COGS 18 Section B (Winter 2024; Hempel)
 
 Jupyter notebooks used in lecture for our Introduction to Python course.
 
